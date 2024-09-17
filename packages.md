@@ -289,3 +289,7 @@ bookworm        | transmission                | transmission                    
 bullseye        | transmission                | transmission                    | 3.00                   | transmission_3.00-1mod1_all.deb                          | 4bbed629bd22bd76d37365a2da32c59d        
 buster          | transmission                | transmission                    | 3.00                   | transmission_3.00-1mod1_all.deb                          | 4bbed629bd22bd76d37365a2da32c59d        
 jammy           | transmission                | transmission                    | 3.00                   | transmission_3.00-1mod1_all.deb                          | 4bbed629bd22bd76d37365a2da32c59d        
+EXTRA_HEAD_DATA = """
+<script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/sorttable.js"></script>
+"""
