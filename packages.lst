@@ -118,8 +118,8 @@ bullseye        libtorrent-rakshasa         libtorrent-dev                  0.13
 buster          libtorrent-rakshasa         libtorrent-dev                  0.13.8                 libtorrent-dev_0.13.8-1build1_amd64.deb                  b760e5224784dd5729d61c8436c719d4    
 jammy           libtorrent-rakshasa         libtorrent-dev                  0.13.8                 libtorrent-dev_0.13.8-1build1_amd64.deb                  81809e0e40a5760ed5bc4cc8456e8b8b    
                                                                                                                                                                                                 
-bullseye        libtorrent-rasterbar        libtorrent-rasterbar            1.2.19                 libtorrent-rasterbar_1.2.19-1build1-1_amd64.deb          60bfd847528d9766c397934862566e45    
-bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1-1_amd64.deb          ef6b80d6d9b19fc939309f1d4fd34e4b    
+bullseye        libtorrent-rasterbar        libtorrent-rasterbar            1.2.19                 libtorrent-rasterbar_1.2.19-1build1-1_amd64.deb          e1af98f97fc55c16243df8e997658ee6    
+bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1-1_amd64.deb          173ee9c0a3f23db461f05f7efbc1b7c6    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1-1_amd64.deb          cdc3e5b7292319ddb2735d825ba3aad6    
                                                                                                                                                                                                 
 buster          libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.13                 libtorrent-rasterbar-dev_1.1.13-1build1_amd64.deb        21c01e7f9934c0d0ce28fdc96ca58c6d    
@@ -217,8 +217,8 @@ bullseye        libtorrent-rasterbar        python3-libtorrent              1.2.
 buster          libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              fb13f14d692d1a452c2d911c21239554    
 jammy           libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              160165cc12e3a7f9227b46569d62a3e2    
                                                                                                                                                                                                 
-bookworm        qbittorrent                 qbittorrent-nox                 4.6.7                  qbittorrent-nox.qbit4.6.7_lt2.0.10.amd64                 ee1663103a2b391ee45da9e5dcd7f6e7    
-bullseye        qbittorrent                 qbittorrent-nox                 4.6.7                  qbittorrent-nox.qbit4.6.7_lt1.2.19.amd64                 a03b8c0409a8eec2680679f8eb8430c0    
+bookworm        qbittorrent                 qbittorrent-nox                 4.6.7                  qbittorrent-nox.qbit4.6.7_lt2.0.10.amd64                 78eaaa67386a4b86883ba54250d3ed13    
+bullseye        qbittorrent                 qbittorrent-nox                 4.6.7                  qbittorrent-nox.qbit4.6.7_lt1.2.19.amd64                 9c49308ca76f3b98ef5265e93cb1e59b    
 jammy           qbittorrent                 qbittorrent-nox                 4.6.7                  qbittorrent-nox.qbit4.6.7_lt2.0.10.amd64                 6e6db98de15fcf98996640c2507666e8    
                                                                                                                                                                                                 
 buster          rtorrent                    rtorrent                        0.9.4                  rtorrent_0.9.4-1build1_amd64.deb                         5271b2019cc7ed333abb2518487f3d98    
