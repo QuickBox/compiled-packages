@@ -234,6 +234,19 @@ bookworm        rtorrent                    rtorrent                        0.9.
 bullseye        rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         300ce2d07267b7fc0d4ed6ee3a743365    
 buster          rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         d568fbb66c7ccc6aaba8d661873bd60e    
 jammy           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         d23d85639872f2aafcf3e4280de0cf16    
+
+bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1-1_amd64.deb                   0003d0cd74f43cc6287b5230d6e6c49d
+bullseye        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1-1_amd64.deb                   4e046588c7089a81a7e6cd757b2964c8
+jammy           transmission                transmission                    4.0.6                  transmission_4.0.6-1build1-1_amd64.deb                   e3d20ce6a5229677a502c7e568ec6f76
+
+bookworm        transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
+bullseye        transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
+buster          transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
+jammy           transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
+bookworm        transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
+bullseye        transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
+buster          transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
+jammy           transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
                                                                                                                                                                                                 
 bookworm        transmission                transmission-cli                2.94                   transmission-cli_2.94-1mod1_amd64.deb                    db461e320afcd24830058bbce100d9c5    
 bullseye        transmission                transmission-cli                2.94                   transmission-cli_2.94-1mod1_amd64.deb                    0aa1953dbd08b83f66f9411ee06a7296    
@@ -280,11 +293,3 @@ bullseye        transmission                transmission-qt                 3.00
 buster          transmission                transmission-qt                 3.00                   transmission-qt_3.00-1mod1_amd64.deb                     525e69082f1b27dc9e5eda16ffbfb3b4    
 jammy           transmission                transmission-qt                 3.00                   transmission-qt_3.00-1mod1_amd64.deb                     a6e6461e309b35aba0ee1715a5e4b6f4    
                                                                                                                                                                                                 
-bookworm        transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
-bullseye        transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
-buster          transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
-jammy           transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
-bookworm        transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
-bullseye        transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
-buster          transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
-jammy           transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
