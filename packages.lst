@@ -178,9 +178,9 @@ bookworm        rtorrent                    rtorrent                        0.10
 bullseye        rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        623c63eea25320b3b267b17318184fcb    
 jammy           rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        d31e1306f227acc67785e40c6cd599db    
 
-bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             27f0602a25d7e6c4c46d0865e2859963    
-bullseye        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             4b7ad613b1e9e6ef2de7b1b03c67c9a1    
-jammy           transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             cb1c05ff10231dd8625f7d8e4303d2e0    
+bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             d11258356490b6621035ff838f70dbc0    
+bullseye        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             03e005929e6a699c8ce1593dcaccd293    
+jammy           transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             36e0b2c52e64b8b046c728307de8a806    
 
 bookworm        transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
 bullseye        transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
