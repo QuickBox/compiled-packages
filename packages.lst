@@ -77,6 +77,10 @@ bookworm        deluge                      deluged                         2.1.
 bullseye        deluge                      deluged                         2.1.1                  deluged_2.1.1-1build1_all.deb                            f700f1b41371cb3a731ffebb690c8ae8    
 jammy           deluge                      deluged                         2.1.1                  deluged_2.1.1-1build1_all.deb                            27691e0641b1ee99e40e605e76c17608    
 
+bookworm        gcc                         gcc                             4:12.2.0               -                                                        -
+bullseye        gcc                         gcc                             12.2.0                 gcc_12.2.0-1build1_amd64.deb                             f29daf9201a88760141d75e22011b1ab
+jammy           gcc                         gcc                             12.2.0                 gcc_12.2.0-1build1_amd64.deb                             7c3d2a32fae02cb6290092ff72a0cd02
+
 bookworm        libtorrent-rakshasa         libtorrent-dev                  0.13.6                 libtorrent-dev_0.13.6-1build1_amd64.deb                  56e615c5a99bc8ae83f4a87f5c33e9e7    
 bullseye        libtorrent-rakshasa         libtorrent-dev                  0.13.6                 libtorrent-dev_0.13.6-1build1_amd64.deb                  42a636501ee1f034823bfd65786d6b1e    
 jammy           libtorrent-rakshasa         libtorrent-dev                  0.13.6                 libtorrent-dev_0.13.6-1build1_amd64.deb                  38f961f8591cef82d3a23a095fcc6f7d    
