@@ -160,6 +160,9 @@ jammy           qbittorrent                 qbittorrent-nox                 4.6.
 bookworm        qbittorrent                 qbittorrent-nox                 5.0.1                  qbittorrent-nox.qbit5.0.1_lt2.0.10.amd64                 a2de913b038b6babe9cbdb608110e022    
 bullseye        qbittorrent                 qbittorrent-nox                 5.0.1                  qbittorrent-nox.qbit5.0.1_lt2.0.10.amd64                 a5c397d885d21ebdd86aea1781a37ce4    
 jammy           qbittorrent                 qbittorrent-nox                 5.0.1                  qbittorrent-nox.qbit5.0.1_lt2.0.10.amd64                 400900db72180520b350bf607e62355c    
+bookworm        qbittorrent                 qbittorrent-nox                 5.0.2                  qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64                 21674b040dca2024c6821a7fc0f531a2    
+bullseye        qbittorrent                 qbittorrent-nox                 5.0.2                  qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64                 00aaea4f12aedf5f769af30a5b655dac    
+jammy           qbittorrent                 qbittorrent-nox                 5.0.2                  qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64                 a55467e3c359e896bba456063e357798    
 
 bookworm        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             0417b18dc0467ce53b8618cf2c2012ed    
 bullseye        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             2d239075327653cc29a8081d9cbd82df    
