@@ -99,7 +99,7 @@ bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            b976942ed127e06886d9a3af7fce88cc    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            0c03b5663f07ebf6f43486002e11a8e4    
 
-bookworm		libtorrent-rasterbar        libtorrent-rasterbar-python3    2.0.10                 libtorrent-rasterbar2.0.10-python3-1build1_amd64.deb     8a0044eb548b731b7ff49ec9caf0b73c    
+bookworm        libtorrent-rasterbar        libtorrent-rasterbar-python3    2.0.10                 libtorrent-rasterbar2.0.10-python3-1build1_amd64.deb     8a0044eb548b731b7ff49ec9caf0b73c    
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar-python3    2.0.10                 libtorrent-rasterbar2.0.10-python3-1build1_amd64.deb     cff604b9ec49d408eebbed2e457a2c93    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar-python3    2.0.10                 libtorrent-rasterbar2.0.10-python3-1build1_amd64.deb     422ae086513eac8c4f9bc1356342b79c    
 
