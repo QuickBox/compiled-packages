@@ -163,10 +163,7 @@ jammy           libtorrent-rasterbar        python3-libtorrent              1.2.
 bullseye        libtorrent-rasterbar        python3-libtorrent              1.2.12                 python3-libtorrent_1.2.12-1build1_amd64.deb              52cd946196d4ce5959f086e707a0e4d1    
 bookworm        libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              df9f36eac5e1d22aef4be6035ed37012    
 bullseye        libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              1b7852ebab75da4366e782a0ef08101f    
-jammy           libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              160165cc12e3a7f9227b46569d62a3e2    
-bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.10                 python3-libtorrent_2.0.10-1build1_amd64.deb              8ad84b1a1cb80b8e545ba6483c2ed2e9    
-bullseye        libtorrent-rasterbar        python3-libtorrent              2.0.10                 python3-libtorrent_2.0.10-1build1_amd64.deb              7876fe15221687dfa09cad24db5ed8c6    
-jammy           libtorrent-rasterbar        python3-libtorrent              2.0.10                 python3-libtorrent_2.0.10-1build1_amd64.deb              e0b97151ebb1714244411fb6b1e34719    
+jammy           libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              160165cc12e3a7f9227b46569d62a3e2       
 
 bookworm        netdata                     netdata                         2.3.1                  netdata_2.3.1-1build1+webv1_amd64.deb                    1d65300d955aff65985f13d070a8b77f    
 bullseye        netdata                     netdata                         2.3.1                  netdata_2.3.1-1build1+webv1_amd64.deb                    319ffc624a12506f72552a34e62db75c    
