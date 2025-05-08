@@ -51,9 +51,9 @@ This repository is primarily consumed by:
 You might find packages such as:
 
 ```bash
-bookworm/binary-amd64/rtorrent/rtorrent_0.15.1-1build1_amd64.deb
-bullseye/binary-amd64/libtorrent-rasterbar/libtorrent-rasterbar_2.0.10-1build1_amd64.deb
-jammy/static-binary/qbittorrent/qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64
+bookworm/binary-amd64/rtorrent/rtorrent_0.15.3-1build1_amd64.deb
+bullseye/binary-amd64/libtorrent-rasterbar/libtorrent-rasterbar_2.0.11-1build1_amd64.deb
+jammy/static-binary/qbittorrent/qbittorrent-nox.qbit5.1.0_lt2.0.11.amd64
 ```
 
 These are downloaded and installed by QuickBox scripts or manually for custom builds.
