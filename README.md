@@ -33,6 +33,7 @@ Each package may include:
 
 - `.deb` packages for Debian/Ubuntu systems.
 - Static binaries for systems where package managers are not applicable.
+- Organized directories for different distributions (e.g., `bookworm`, `bullseye`, `jammy`).
 - Checksum file `packages.lst` for package integrity verification.
 
 ---
