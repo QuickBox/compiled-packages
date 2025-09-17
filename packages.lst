@@ -4,32 +4,48 @@ bullseye        boost                       libboost-dev                    1.83
 jammy           boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    962ea6c60bc1d69cf5a572240988f63a    
 
 bookworm        deluge                      deluge-common                   2.0.3                  deluge-common_2.0.3-1build1_all.deb                      7ee2203319ae970e509b979afca58ccb    
+bullseye        deluge                      deluge-common                   2.0.3                  deluge-common_2.0.3-1build1_all.deb                      ab91fdadf5454f2b7d2b83df65c02d25    
+jammy           deluge                      deluge-common                   2.0.3                  deluge-common_2.0.3-1build1_all.deb                      6b5e29e9b82cce5f492525c1ee59766b    
 bookworm        deluge                      deluge-common                   2.0.3.1                deluge-common_2.0.3.1-1build1_all.deb                    368a7e8dd5a83b8586591ad296548b51    
 bookworm        deluge                      deluge-common                   2.0.5                  deluge-common_2.0.5-1build1_all.deb                      23caa76bb03d6eae46ae6412eacd8404    
 bookworm        deluge                      deluge-common                   2.1.1                  deluge-common_2.1.1-1build1_all.deb                      6e935708f9b1f6962a31570e4a05163e    
+bullseye        deluge                      deluge-common                   2.1.1                  deluge-common_2.1.1-1build1_all.deb                      2934ecba85f4d8db1fdc439340209ad8    
+jammy           deluge                      deluge-common                   2.1.1                  deluge-common_2.1.1-1build1_all.deb                      1bc9875e3b63071949a1ab2829120eae    
 
 bookworm        deluge                      deluge-console                  2.0.3                  deluge-console_2.0.3-1build1_all.deb                     c9a01a74c67be5ae684d4a06d7afa5e0    
 bookworm        deluge                      deluge-console                  2.0.3.1                deluge-console_2.0.3.1-1build1_all.deb                   5a3bb242f369f9b0eff6dd1a429bc4e6    
 bookworm        deluge                      deluge-console                  2.0.5                  deluge-console_2.0.5-1build1_all.deb                     0cf23dfba61cf0fb073ba6aac676d196    
+bullseye        deluge                      deluge-console                  2.0.5                  deluge-console_2.0.5-1build1_all.deb                     7a96569a32aef20757f8fff7d2ec9275    
+jammy           deluge                      deluge-console                  2.0.5                  deluge-console_2.0.5-1build1_all.deb                     aa6bca361a2ecc57fbc3e238be01c011    
 bookworm        deluge                      deluge-console                  2.1.1                  deluge-console_2.1.1-1build1_all.deb                     b2c436fa4eed8144427f33c9492f8f6b    
 
 bookworm        deluge                      deluge-gtk                      2.0.3                  deluge-gtk_2.0.3-1build1_all.deb                         d054342ae9a71fc0e2dcc5b925ff613a    
 bookworm        deluge                      deluge-gtk                      2.0.3.1                deluge-gtk_2.0.3.1-1build1_all.deb                       e435c0044ed4bd7c1b02b9cfc82861ae    
+bullseye        deluge                      deluge-gtk                      2.0.3.1                deluge-gtk_2.0.3.1-1build1_all.deb                       16f5674b4920fbe31819efae86ba6b2e    
+jammy           deluge                      deluge-gtk                      2.0.3.1                deluge-gtk_2.0.3.1-1build1_all.deb                       a118cc534f699afd7b9ee998ab5456e5    
 bookworm        deluge                      deluge-gtk                      2.0.5                  deluge-gtk_2.0.5-1build1_all.deb                         14e78445e8e1636f24b062acda7408d2    
 bookworm        deluge                      deluge-gtk                      2.1.1                  deluge-gtk_2.1.1-1build1_all.deb                         25e847e7197e2ec0711ff76ca3113f12    
 
 bookworm        deluge                      deluge-web                      2.0.3                  deluge-web_2.0.3-1build1_all.deb                         33695f82efac204f9f6bff3dd1b94df3    
+bullseye        deluge                      deluge-web                      2.0.3                  deluge-web_2.0.3-1build1_all.deb                         80c113ceb702c49f508a84eaabe5b73f    
+jammy           deluge                      deluge-web                      2.0.3                  deluge-web_2.0.3-1build1_all.deb                         537fc4db560b087eedea89c7668cf885    
 bookworm        deluge                      deluge-web                      2.0.3.1                deluge-web_2.0.3.1-1build1_all.deb                       2eb8d5a4af51032c846081594de40507    
 bookworm        deluge                      deluge-web                      2.0.5                  deluge-web_2.0.5-1build1_all.deb                         f812400875799e58dc6d57b14f8e50cd    
 bookworm        deluge                      deluge-web                      2.1.1                  deluge-web_2.1.1-1build1_all.deb                         c86c5ce7397aadfb6bdd6f27c6eee2b7    
+bullseye        deluge                      deluge-web                      2.1.1                  deluge-web_2.1.1-1build1_all.deb                         08da394f5a0032937b1030aed1733fa5    
+jammy           deluge                      deluge-web                      2.1.1                  deluge-web_2.1.1-1build1_all.deb                         28145a53a60c57d8a907ab96e7ce014e    
 
 bookworm        deluge                      deluge                          2.0.3                  deluge_2.0.3-1build1_all.deb                             cb7791719a9ef97a1c0c6b5ade2e8f4f    
 bookworm        deluge                      deluge                          2.0.3.1                deluge_2.0.3.1-1build1_all.deb                           fb9177f44b79623642ab590a9659d805    
 bookworm        deluge                      deluge                          2.0.5                  deluge_2.0.5-1build1_all.deb                             9e9908c1a3eb18775f0d30d77aad38ba    
+bullseye        deluge                      deluge                          2.0.5                  deluge_2.0.5-1build1_all.deb                             a3b4af432ec28efa38e8d82ccfceec47    
+jammy           deluge                      deluge                          2.0.5                  deluge_2.0.5-1build1_all.deb                             84067217b0adbc5e490e08a53506202a    
 bookworm        deluge                      deluge                          2.1.1                  deluge_2.1.1-1build1_all.deb                             45f6ee37b835f10a3517116eb24bab1d    
 
 bookworm        deluge                      deluged                         2.0.3                  deluged_2.0.3-1build1_all.deb                            5409562e3f8a1d209ecd42a6d04856d7    
 bookworm        deluge                      deluged                         2.0.3.1                deluged_2.0.3.1-1build1_all.deb                          e2c9d8e538080079c97be937fa7cacd7    
+bullseye        deluge                      deluged                         2.0.3.1                deluged_2.0.3.1-1build1_all.deb                          e2c9d8e538080079c97be937fa7cacd7    
+jammy           deluge                      deluged                         2.0.3.1                deluged_2.0.3.1-1build1_all.deb                          691c889dfd3a68c0dcb2012d37c4d5fa    
 bookworm        deluge                      deluged                         2.0.5                  deluged_2.0.5-1build1_all.deb                            902b9c52fb656e62c4f6f299e3d1b854    
 bookworm        deluge                      deluged                         2.1.1                  deluged_2.1.1-1build1_all.deb                            a77655ff163884672b2b0ba2af4dc7a1    
 
