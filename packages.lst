@@ -7,9 +7,9 @@ bookworm        cmake                       cmake                           4.1.
 bullseye        cmake                       cmake                           4.1.0                  cmake_4.1.0-1build1_amd64.deb                            822b25545c60b4b8a3cf6f923bdb25c4    
 jammy           cmake                       cmake                           4.1.0                  cmake_4.1.0-1build1_amd64.deb                            1c02d28a61af5a50fd1a314bd993765b    
 
-bookworm        deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  e840d8561b0ab73b7aee8d4f447f8edb    
-bullseye        deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  7141dd86e103d4c5a9ce3cffe324908a    
-jammy           deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  a72358c4c095a19279cbe1520052d7cc    
+bookworm        deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  c461c7ec1f77a249666063fc14a3ab6c    
+bullseye        deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  a53db904e42a5a6ff977e17133e6e70e    
+jammy           deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  10a44a785c1be169aae5aa266b8f543c    
 
 bookworm        deluge                      deluge-common                   2.0.3                  deluge-common_2.0.3-1build1_all.deb                      7ee2203319ae970e509b979afca58ccb    
 bullseye        deluge                      deluge-common                   2.0.3                  deluge-common_2.0.3-1build1_all.deb                      ab91fdadf5454f2b7d2b83df65c02d25    
@@ -125,7 +125,7 @@ bookworm        libtorrent-rakshasa         libtorrent24                    0.15
 bullseye        libtorrent-rakshasa         libtorrent24                    0.15.3                 libtorrent24_0.15.3-1build1_amd64.deb                    f2dedddb2d54e053385a2d24dcd2d40f    
 jammy           libtorrent-rakshasa         libtorrent24                    0.15.3                 libtorrent24_0.15.3-1build1_amd64.deb                    55406e366865654fd976f10c41cfddd2    
 bookworm        libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   1482ce4ba7fb95183e03c8c5165c7540    
-bullseye        libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   d944de7c86fa5a58c3f58c5c3365702c    
+bullseye        libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   32a8a3b813b69535c65ec9b99900a344    
 jammy           libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   66844f0203743bc2f2edd6f75c7cd1a2    
 
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            2acf81c97b903f2f9f8b87dc13769744    
@@ -230,7 +230,7 @@ bookworm        rtorrent                    rtorrent                        0.15
 bullseye        rtorrent                    rtorrent                        0.15.3                 rtorrent_0.15.3-1build1_amd64.deb                        9d27bd753eff41cc9ff07e176719b7c0    
 jammy           rtorrent                    rtorrent                        0.15.3                 rtorrent_0.15.3-1build1_amd64.deb                        b2fc266a4d1e8c143daf5d2b2a80a3a9    
 bookworm        rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        fe3f61c026e9a2ee5373d8a2741237d2    
-bullseye        rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        85f58e7cd125a76e4478e1b2e9b702b2    
+bullseye        rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        9eb838176de582164646e39dbbb7368d    
 jammy           rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        d83de80ecb2c4779ee2c33b45a0b2dda    
 
 bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             d11258356490b6621035ff838f70dbc0    
