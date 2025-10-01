@@ -1,4 +1,5 @@
 CODENAME        CATEGORY                    PACKAGE                         VERSION                FILENAME                                                 MD5                                 
+trixie          boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    f8b3e8d0eb6d8262b8e1f3f3481af87a    
 bookworm        boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    a33a633ee3d58c4448b9c3e17733adf8    
 bullseye        boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    7599ac32a204c5cba792a68645359eb5    
 jammy           boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    eca3cd084cdc199d0a9ddb7220f8e87a    
@@ -7,6 +8,7 @@ bookworm        cmake                       cmake                           4.1.
 bullseye        cmake                       cmake                           4.1.0                  cmake_4.1.0-1build1_amd64.deb                            822b25545c60b4b8a3cf6f923bdb25c4    
 jammy           cmake                       cmake                           4.1.0                  cmake_4.1.0-1build1_amd64.deb                            1c02d28a61af5a50fd1a314bd993765b    
 
+trixie          deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  c3ede24dfbf32809b562299aea863e68    
 bookworm        deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  08c911ffa0d376bc94ff42d5e89e80c3    
 bullseye        deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  d1bf5cdddeaca0357162eef3b7f29d6d    
 jammy           deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  6fad0c7d2d7433711925845ed7f98e63    
@@ -124,6 +126,7 @@ jammy           libtorrent-rakshasa         libtorrent23                    0.15
 bookworm        libtorrent-rakshasa         libtorrent24                    0.15.3                 libtorrent24_0.15.3-1build1_amd64.deb                    e5a8d9f1d207fce0401cfa832db8bb41    
 bullseye        libtorrent-rakshasa         libtorrent24                    0.15.3                 libtorrent24_0.15.3-1build1_amd64.deb                    f2dedddb2d54e053385a2d24dcd2d40f    
 jammy           libtorrent-rakshasa         libtorrent24                    0.15.3                 libtorrent24_0.15.3-1build1_amd64.deb                    55406e366865654fd976f10c41cfddd2    
+trixie          libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   240b1d20aa04fd79815c55806947822d    
 bookworm        libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   1482ce4ba7fb95183e03c8c5165c7540    
 bullseye        libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   32a8a3b813b69535c65ec9b99900a344    
 jammy           libtorrent-rakshasa         libtorrent160                   0.16.0                 libtorrent160_0.16.0-1build1_amd64.deb                   66844f0203743bc2f2edd6f75c7cd1a2    
@@ -131,6 +134,7 @@ jammy           libtorrent-rakshasa         libtorrent160                   0.16
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            2acf81c97b903f2f9f8b87dc13769744    
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            b976942ed127e06886d9a3af7fce88cc    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            0c03b5663f07ebf6f43486002e11a8e4    
+trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            6dddeff4fbd08bb1a3083109ba5c5c62    
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            77eac53c6dd956715c3145c3e16b842b    
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            581f0a0f0774a2326120b1a73f2cc153    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            391fbdec5628db5040774f2f72868e70    
@@ -180,6 +184,7 @@ bullseye        libtorrent-rasterbar        python3-libtorrent              1.2.
 bookworm        libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              df9f36eac5e1d22aef4be6035ed37012    
 bullseye        libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              1b7852ebab75da4366e782a0ef08101f    
 jammy           libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              160165cc12e3a7f9227b46569d62a3e2    
+trixie          libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              6683a14db43d1dbc3889b755eee428e3    
 bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              4757b196f3de065aef9624d569e6710f    
 bullseye        libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              a6df40f8bb024e666405318873ce2387    
 jammy           libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              146d0fdf2bb9c396c9fe0b004f5c0fe7    
@@ -190,6 +195,7 @@ jammy           netdata                     netdata                         2.3.
 bookworm        netdata                     netdata                         2.4.0                  netdata_2.4.0-1build1+webv1_amd64.deb                    24fa4e26cfd2eecab812370d4883d770    
 bullseye        netdata                     netdata                         2.4.0                  netdata_2.4.0-1build1+webv1_amd64.deb                    35778631080d5bdc9e24cb54c1eee85a    
 jammy           netdata                     netdata                         2.4.0                  netdata_2.4.0-1build1+webv1_amd64.deb                    53a4f90677daccc2ca91a462339815ff    
+trixie          netdata                     netdata                         2.7.1                  netdata_2.7.1-1build1+webv1_amd64.deb                    7cf29f2a220dca25f36d06c47dbaddbc    
 bookworm        netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    f128120e61ba0a9e6f523666d7567cca    
 bullseye        netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    6838d03f7eef9d0878acabb414491723    
 jammy           netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    caf45bcb19a3a3adcea6d041ca2dbc7c    
@@ -203,10 +209,12 @@ jammy           qbittorrent                 qbittorrent-nox                 5.0.
 bookworm        qbittorrent                 qbittorrent-nox                 5.0.2                  qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64                 21674b040dca2024c6821a7fc0f531a2    
 bullseye        qbittorrent                 qbittorrent-nox                 5.0.2                  qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64                 00aaea4f12aedf5f769af30a5b655dac    
 jammy           qbittorrent                 qbittorrent-nox                 5.0.2                  qbittorrent-nox.qbit5.0.2_lt2.0.10.amd64                 a55467e3c359e896bba456063e357798    
+trixie          qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.qbit5.1.2_lt2.0.11.amd64                 8cf9b9648900b3b03d7456cd1f934fc4    
 bookworm        qbittorrent                 qbittorrent-nox                 5.1.0                  qbittorrent-nox.qbit5.1.0_lt2.0.11.amd64                 a6d64f710f7d7be44fdb954ad24817a9    
 bullseye        qbittorrent                 qbittorrent-nox                 5.1.0                  qbittorrent-nox.qbit5.1.0_lt2.0.11.amd64                 ef3d4ccd765f7da84540a315d2ecab52    
 jammy           qbittorrent                 qbittorrent-nox                 5.1.0                  qbittorrent-nox.qbit5.1.0_lt2.0.11.amd64                 181ee7bce53c2a9378fa267b32d3cd27    
 
+trixie          qt6                         libqt6essentials-dev            6.9.3                  libqt6essentials-dev_6.9.3-2build1_amd64.deb             50f6f3240a7d9195e223545f2f783107    
 bookworm        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             0417b18dc0467ce53b8618cf2c2012ed    
 bullseye        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             2d239075327653cc29a8081d9cbd82df    
 jammy           qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             befcea029398af89c25201600afea31f    
@@ -229,10 +237,12 @@ jammy           rtorrent                    rtorrent                        0.15
 bookworm        rtorrent                    rtorrent                        0.15.3                 rtorrent_0.15.3-1build1_amd64.deb                        091e9bf112a87e34136dea4e0b392736    
 bullseye        rtorrent                    rtorrent                        0.15.3                 rtorrent_0.15.3-1build1_amd64.deb                        9d27bd753eff41cc9ff07e176719b7c0    
 jammy           rtorrent                    rtorrent                        0.15.3                 rtorrent_0.15.3-1build1_amd64.deb                        b2fc266a4d1e8c143daf5d2b2a80a3a9    
+trixie          rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        f3af50f79e57e801f075f025501c4b1c    
 bookworm        rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        fe3f61c026e9a2ee5373d8a2741237d2    
 bullseye        rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        9eb838176de582164646e39dbbb7368d    
 jammy           rtorrent                    rtorrent                        0.16.0                 rtorrent_0.16.0-1build1_amd64.deb                        d83de80ecb2c4779ee2c33b45a0b2dda    
 
+trixie          transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             2751fbfc8df23621af98ec73d30eb1ac    
 bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             d11258356490b6621035ff838f70dbc0    
 bullseye        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             03e005929e6a699c8ce1593dcaccd293    
 jammy           transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             36e0b2c52e64b8b046c728307de8a806    
@@ -288,6 +298,7 @@ jammy           xmlrpc                      xmlrpc-c                        1.64
 bookworm        xmlrpc                      xmlrpc-c                        1.65.00                xmlrpc-c_1.65.00-1build1_amd64.deb                       c3444c3ee876a83e7373d6d369962a97    
 bullseye        xmlrpc                      xmlrpc-c                        1.65.00                xmlrpc-c_1.65.00-1build1_amd64.deb                       4b8fb826026786dbc8dd1f7384a8e257    
 jammy           xmlrpc                      xmlrpc-c                        1.65.00                xmlrpc-c_1.65.00-1build1_amd64.deb                       f43f8ab51fe0265e71bfe78100a3c549    
+trixie          xmlrpc                      xmlrpc-c                        1.67.0                 xmlrpc-c_1.67.0-1build1_amd64.deb                        9c878e21da2e80efcd09fc4ec4a10f7d    
 bookworm        xmlrpc                      xmlrpc-c                        1.66.1                 xmlrpc-c_1.66.1-1build1_amd64.deb                        41f76cea1864d072eb1ef95048c8d824    
 bullseye        xmlrpc                      xmlrpc-c                        1.66.1                 xmlrpc-c_1.66.1-1build1_amd64.deb                        fc30ad18efa292012ad12d31fbca570c    
 jammy           xmlrpc                      xmlrpc-c                        1.66.1                 xmlrpc-c_1.66.1-1build1_amd64.deb                        7f9173e42c4488e7345b8385a342ef50    
