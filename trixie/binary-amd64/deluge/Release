@@ -1,0 +1,9 @@
+Origin: QuickBox.IO
+Label: deluge-headless
+Suite: stable
+Codename: trixie
+Version: 2.2.0
+Date: Wed, 01 Oct 2025 11:34:46 -0500
+Architectures: amd64
+Components: deluge
+Description: deluge-headless 2.2.0 packaged by QuickBox.IO
