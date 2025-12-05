@@ -1,6 +1,6 @@
 CODENAME        CATEGORY                    PACKAGE                         VERSION                FILENAME                                                 MD5                                 
 trixie          boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    f8b3e8d0eb6d8262b8e1f3f3481af87a    
-bookworm        boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    a33a633ee3d58c4448b9c3e17733adf8    
+bookworm        boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    1833098fc417f845666dbead91bd38bc    
 bullseye        boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    7599ac32a204c5cba792a68645359eb5    
 jammy           boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    eca3cd084cdc199d0a9ddb7220f8e87a    
 
