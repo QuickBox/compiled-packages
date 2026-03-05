@@ -144,6 +144,10 @@ bookworm        libtorrent-rakshasa         libtorrent165                   0.16
 bullseye        libtorrent-rakshasa         libtorrent165                   0.16.5                 libtorrent165_0.16.5-1build1_amd64.deb                   612b39cfe119b433a5fe6f9f1624d9ba    
 jammy           libtorrent-rakshasa         libtorrent165                   0.16.5                 libtorrent165_0.16.5-1build1_amd64.deb                   06253fab0ca3ed032480cb4b3bd4301f    
 trixie          libtorrent-rakshasa         libtorrent165                   0.16.5                 libtorrent165_0.16.5-1build1_amd64.deb                   e568e3ae38b9f9fdd7dfc036a38f9760    
+bookworm        libtorrent-rakshasa         libtorrent167                   0.16.7                 libtorrent167_0.16.7-1build1_amd64.deb                   4f3012fc61a04e775ee02a18bc866879    
+bullseye        libtorrent-rakshasa         libtorrent167                   0.16.7                 libtorrent167_0.16.7-1build1_amd64.deb                   97c36b88e6c65a17ce2187a456a989e5    
+jammy           libtorrent-rakshasa         libtorrent167                   0.16.7                 libtorrent167_0.16.7-1build1_amd64.deb                   229d1d63afb92a2368e63f498de74499    
+trixie          libtorrent-rakshasa         libtorrent167                   0.16.7                 libtorrent167_0.16.7-1build1_amd64.deb                   3a9f58c56d6dcdbec435495aba5e15c2    
 
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            2acf81c97b903f2f9f8b87dc13769744    
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            b976942ed127e06886d9a3af7fce88cc    
@@ -244,6 +248,10 @@ bookworm        qbittorrent                 qbittorrent-nox                 5.1.
 bullseye        qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     74d2c297c435e1a76b8e532af48a10be    
 jammy           qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     4dde71a609da718f2f941491cface7ca    
 trixie          qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     8cf9b9648900b3b03d7456cd1f934fc4    
+bookworm        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     fac9066d8ee0f65a8c032b97ccfa9e82    
+bullseye        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
+jammy           qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
+trixie          qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
 
 trixie          qt6                         libqt6essentials-dev            6.9.3                  libqt6essentials-dev_6.9.3-2build1_amd64.deb             50f6f3240a7d9195e223545f2f783107    
 bookworm        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             0417b18dc0467ce53b8618cf2c2012ed    
@@ -287,6 +295,10 @@ bookworm        rtorrent                    rtorrent                        0.16
 bullseye        rtorrent                    rtorrent                        0.16.5                 rtorrent_0.16.5-1build1_amd64.deb                        065653a523a3133db40b9660c11837d8    
 jammy           rtorrent                    rtorrent                        0.16.5                 rtorrent_0.16.5-1build1_amd64.deb                        935c0f1da4d713d257e30961b69e9b37    
 trixie          rtorrent                    rtorrent                        0.16.5                 rtorrent_0.16.5-1build1_amd64.deb                        2c5fa7e32f79050d02f3e2f0c8406397    
+bookworm        rtorrent                    rtorrent                        0.16.7                 rtorrent_0.16.7-1build1_amd64.deb                        00d26946ed6cadb9cc8cd7c0c608ccfc    
+bullseye        rtorrent                    rtorrent                        0.16.7                 rtorrent_0.16.7-1build1_amd64.deb                        be79e5e5a8617ea665035197ef854191    
+jammy           rtorrent                    rtorrent                        0.16.7                 rtorrent_0.16.7-1build1_amd64.deb                        55cb697be3251eeeb1c6126e506348da    
+trixie          rtorrent                    rtorrent                        0.16.7                 rtorrent_0.16.7-1build1_amd64.deb                        a1fa085c3581702411f5d0477e165e05    
 
 trixie          transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             2751fbfc8df23621af98ec73d30eb1ac    
 bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             d11258356490b6621035ff838f70dbc0    
