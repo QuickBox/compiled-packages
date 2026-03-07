@@ -251,7 +251,7 @@ trixie          qbittorrent                 qbittorrent-nox                 5.1.
 bookworm        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     fac9066d8ee0f65a8c032b97ccfa9e82    
 bullseye        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
 jammy           qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
-trixie          qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
+trixie          qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     1fcd25d5ddbd9d1f82f9d55377772320    
 
 trixie          qt6                         libqt6essentials-dev            6.9.3                  libqt6essentials-dev_6.9.3-2build1_amd64.deb             50f6f3240a7d9195e223545f2f783107    
 bookworm        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             0417b18dc0467ce53b8618cf2c2012ed    
