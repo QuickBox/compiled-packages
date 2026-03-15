@@ -156,6 +156,9 @@ trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.0.
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            77eac53c6dd956715c3145c3e16b842b    
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            581f0a0f0774a2326120b1a73f2cc153    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            391fbdec5628db5040774f2f72868e70    
+bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.12                 libtorrent-rasterbar_2.0.12-1build1_amd64.deb            534c86a0bed44afa62856e486b75f1a4    
+jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.12                 libtorrent-rasterbar_2.0.12-1build1_amd64.deb            35bd87d049d838429646cfc183d0e4f5    
+trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.0.12                 libtorrent-rasterbar_2.0.12-1build1_amd64.deb            18d6b4a7fa012f2e0696ac01e362e3c2    
 
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14                 libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        33f561496f7e407c359ebba7e1dc9bff    
 bullseye        libtorrent-rasterbar        libtorrent-rasterbar-dev        1.1.14                 libtorrent-rasterbar-dev_1.1.14-1build1_amd64.deb        f26e8b7c9acabb6cdb46f2c50d3d06f0    
@@ -206,6 +209,9 @@ trixie          libtorrent-rasterbar        python3-libtorrent              2.0.
 bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              4757b196f3de065aef9624d569e6710f    
 bullseye        libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              a6df40f8bb024e666405318873ce2387    
 jammy           libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              146d0fdf2bb9c396c9fe0b004f5c0fe7    
+bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              8e5b9725e46634ba09d8f60a8873594a    
+jammy           libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              4bcf1d77a8767dd19180806c4055e8ea    
+trixie          libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              18d6b4a7fa012f2e0696ac01e362e3c2    
 
 bookworm        netdata                     netdata                         2.3.1                  netdata_2.3.1-1build1+webv1_amd64.deb                    1d65300d955aff65985f13d070a8b77f    
 bullseye        netdata                     netdata                         2.3.1                  netdata_2.3.1-1build1+webv1_amd64.deb                    319ffc624a12506f72552a34e62db75c    
@@ -216,9 +222,6 @@ jammy           netdata                     netdata                         2.4.
 bookworm        netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    f128120e61ba0a9e6f523666d7567cca    
 bullseye        netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    6838d03f7eef9d0878acabb414491723    
 jammy           netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    caf45bcb19a3a3adcea6d041ca2dbc7c    
-bookworm        netdata                     netdata                         2.7.1                  -                                                        -    
-bullseye        netdata                     netdata                         2.7.1                  -                                                        -    
-jammy           netdata                     netdata                         2.7.1                  -                                                        -    
 trixie          netdata                     netdata                         2.7.1                  netdata_2.7.1-1build1+webv1_amd64.deb                    7cf29f2a220dca25f36d06c47dbaddbc    
 bookworm        netdata                     netdata                         2.7.3                  netdata_2.7.3-1build1+webv1_amd64.deb                    1928f01986044ce161108ba6a1ae74fa    
 bullseye        netdata                     netdata                         2.7.3                  netdata_2.7.3-1build1+webv1_amd64.deb                    f43dab6fb8bd577cc75abb609848226d    
@@ -248,10 +251,9 @@ bookworm        qbittorrent                 qbittorrent-nox                 5.1.
 bullseye        qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     74d2c297c435e1a76b8e532af48a10be    
 jammy           qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     4dde71a609da718f2f941491cface7ca    
 trixie          qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     8cf9b9648900b3b03d7456cd1f934fc4    
-bookworm        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     fac9066d8ee0f65a8c032b97ccfa9e82    
-bullseye        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
-jammy           qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     -    
-trixie          qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.11.amd64                     1fcd25d5ddbd9d1f82f9d55377772320    
+bookworm        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.12.amd64                     709bfdd1620e101bc0fc2c382331fa49    
+jammy           qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.12.amd64                     0e1a8352263a2b4ae6d0434a99e835a8    
+trixie          qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.12.amd64                     2b917774719c1ee4eee0d2b2bd83e488    
 
 trixie          qt6                         libqt6essentials-dev            6.9.3                  libqt6essentials-dev_6.9.3-2build1_amd64.deb             50f6f3240a7d9195e223545f2f783107    
 bookworm        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             0417b18dc0467ce53b8618cf2c2012ed    
