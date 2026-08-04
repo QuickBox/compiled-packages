@@ -1,0 +1,19 @@
+Package: deluge-headless
+Version: 2.2.0-1build1
+Architecture: amd64
+Maintainer: JMSolo@quickbox
+Installed-Size: 13996
+Depends: python3 (>= 3.6),  python3-libtorrent (>= 1.2.0-1build1),  libtorrent-rasterbar (>= 1.2.0-1build1),  python3-twisted (>= 17.1), python3-openssl, python3-pkg-resources, python3-chardet, python3-xdg,  python3-rencode, python3-six, python3-mako, python3-setproctitle, python3-pil,  python3-geoip, geoip-database
+Filename: ./deluge-headless_2.2.0-1build1_amd64.deb
+Size: 2223188
+MD5sum: a9f472d03604b79d1f7160f09cc1d318
+SHA1: 2b58511be0f1d063a0faed1c23fd205454ac7b53
+SHA256: 49de616aa33a51d08da8d46014c8c2de4e2d88ff946a346a6af40dce2c161cd4
+Section: net
+Priority: optional
+Description: Deluge BitTorrent client (daemon, web UI & console) — headless build
+ Deluge is a full-featured BitTorrent client using libtorrent-rasterbar.
+ .
+ This build provides only the daemon, Web UI and console interfaces,
+ suitable for headless servers. The GTK desktop UI has been removed.
+

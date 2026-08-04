@@ -1,0 +1,15 @@
+Package: qbittorrent-nox
+Version: 5.2.3-lt2.0.13build1
+Architecture: amd64
+Maintainer: JMSolo@quickbox
+Installed-Size: 13320
+Depends: libtorrent-rasterbar
+Filename: ./qbittorrent-nox_5.2.3-lt2.0.13-1build1_amd64.deb
+Size: 8658078
+MD5sum: 2badd31c91d7183b1f13e68be4a73599
+SHA1: 639d284b5bcda2b20c55b649d6ee1a302c995d48
+SHA256: 38b30e2147979e4b825f5224c46b04edafcd9420e1a5589c2574a3107f12c728
+Section: net
+Priority: optional
+Description: qbittorrent-nox - BitTorrent client without GUI. Compiled to work with libtorrent-rasterbar lt2.0.13.
+

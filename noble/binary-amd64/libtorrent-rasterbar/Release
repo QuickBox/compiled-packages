@@ -1,0 +1,9 @@
+Origin: QuickBox.IO
+Label: libtorrent-rasterbar
+Suite: stable
+Codename: noble
+Version: 2.0.13
+Date: Tue, 04 Aug 2026 06:58:59 +0000
+Architectures: amd64
+Components: libtorrent-rasterbar
+Description: libtorrent-rasterbar 2.0.13 packaged by QuickBox.IO

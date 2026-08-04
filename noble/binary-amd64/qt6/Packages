@@ -1,0 +1,14 @@
+Package: libqt6essentials-dev
+Version: 6.11.1-2build1
+Architecture: amd64
+Maintainer: JMSolo@quickbox
+Installed-Size: 136824
+Filename: ./libqt6essentials-dev_6.11.1-2build1_amd64.deb
+Size: 26178478
+MD5sum: 90965611848a1eb3c5b7f1ffbaeb0944
+SHA1: e4e327afc428b325d4fe4daf5b3f39069e462ae0
+SHA256: 4bf9c46765995e05c30923d7daeeb7a9f54eb4a70e559e7e9b079146533e2048
+Section: libs
+Priority: optional
+Description: Qt6 development libraries including qtbase, qttools, qt5compat, qtsvg, qttranslations. Compiled to work with libtorrent-rasterbar 2.
+

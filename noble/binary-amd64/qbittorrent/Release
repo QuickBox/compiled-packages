@@ -1,0 +1,9 @@
+Origin: QuickBox.IO
+Label: qbittorrent-nox
+Suite: stable
+Codename: noble
+Version: 5.2.3
+Date: Tue, 04 Aug 2026 07:10:23 +0000
+Architectures: amd64
+Components: qbittorrent
+Description: qbittorrent-nox 5.2.3 packaged by QuickBox.IO

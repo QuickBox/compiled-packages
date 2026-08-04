@@ -1,0 +1,9 @@
+Origin: QuickBox.IO
+Label: deluge-headless
+Suite: stable
+Codename: noble
+Version: 2.2.0
+Date: Tue, 04 Aug 2026 06:52:50 +0000
+Architectures: amd64
+Components: deluge
+Description: deluge-headless 2.2.0 packaged by QuickBox.IO

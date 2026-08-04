@@ -1,0 +1,19 @@
+Package: libboost-dev
+Version: 1.83.0-1build1
+Architecture: amd64
+Maintainer: JMSolo@quickbox
+Installed-Size: 187788
+Depends: python3, python3-dev
+Replaces: libboost-python1.74.0, libboost-python1.81.0, libboost-python1.83.0, libboost-system1.74.0, libboost-system1.81.0, libboost-chrono1.74.0, libboost-chrono1.81.0, libboost-random1.74.0, libboost-random1.81.0
+Provides: libboost-python1.74.0, libboost-python1.81.0, libboost-python1.83.0, libboost-system1.74.0, libboost-system1.81.0, libboost-system1.83.0, libboost-chrono1.74.0, libboost-chrono1.81.0, libboost-chrono1.83.0, libboost-random1.74.0, libboost-random1.81.0, libboost-random1.83.0
+Filename: ./libboost-dev_1.83.0-1build1_amd64.deb
+Size: 10284762
+MD5sum: fd8aa60533ac7495bbc1da08fbb757ca
+SHA1: 17c6210b8e0b02a8b20761a68e0789dfda0bf0a8
+SHA256: ec4767582e3535f0fd46408a078b3227b62ac735db1235190e1d4f550dc271ee
+Section: libs
+Priority: optional
+Description: Boost C++ Libraries 1.83.0 with Python, System, Chrono, and Random
+ Custom compiled Boost libraries for QuickBox compatibility.
+ Includes Boost.Python, System, Chrono, and Random components.
+
