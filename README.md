@@ -38,6 +38,16 @@ Each package may include:
 
 ---
 
+## 🔄 How this repo is updated
+
+`packages.lst` is not hand-edited. Maintainers regenerate a codename's rows from its compiled `.deb`
+tree with `developer_resources/sync-packages.sh` in the [qb-compile](https://github.com/QuickBox/qb-compile)
+repository, which pulls the artifacts from the build server and rewrites only that codename's rows
+(header, column alignment, and every other codename's rows are preserved). See that script's README
+section for the full workflow.
+
+---
+
 ## 🛠 Used By
 
 This repository is primarily consumed by:
