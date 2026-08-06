@@ -1,9 +1,0 @@
-Origin: QuickBox.IO
-Label: transmission
-Suite: stable
-Codename: noble
-Version: 4.1.3
-Date: Tue, 04 Aug 2026 07:14:21 +0000
-Architectures: amd64
-Components: transmission
-Description: transmission 4.1.3 packaged by QuickBox.IO

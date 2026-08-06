@@ -1,9 +1,0 @@
-Origin: QuickBox.IO
-Label: libboost-dev
-Suite: stable
-Codename: noble
-Version: 1.83.0
-Date: Tue, 04 Aug 2026 06:02:20 +0000
-Architectures: amd64
-Components: boost
-Description: libboost-dev 1.83.0 packaged by QuickBox.IO

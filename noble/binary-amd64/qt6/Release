@@ -1,9 +1,0 @@
-Origin: QuickBox.IO
-Label: libqt6essentials-dev
-Suite: stable
-Codename: noble
-Version: 6.11.1
-Date: Tue, 04 Aug 2026 06:44:13 +0000
-Architectures: amd64
-Components: qt6
-Description: libqt6essentials-dev 6.11.1 packaged by QuickBox.IO

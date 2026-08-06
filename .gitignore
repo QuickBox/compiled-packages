@@ -1,0 +1,5 @@
+
+# apt-index files are not used by consumers; the packages.lst manifest is authoritative
+**/Packages
+**/Packages.gz
+**/Release
