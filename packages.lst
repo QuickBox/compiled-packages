@@ -213,7 +213,7 @@ bullseye        xmlrpc                      xmlrpc-c                        1.65
 bullseye        xmlrpc                      xmlrpc-c                        1.66.1                 xmlrpc-c_1.66.1-1build1_amd64.deb                        fc30ad18efa292012ad12d31fbca570c    
 bullseye        xmlrpc                      xmlrpc-c                        1.67.0                 xmlrpc-c_1.67.0-1build1_amd64.deb                        7af7b104068578b0c900c80e714ecf7b    
 
-jammy           boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    018a50c1d03c156bbda169f86e9a4b7c    
+jammy           boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    b81617f85bb6fce70a9182e458363162    
 
 jammy           cmake                       cmake                           4.1.0                  cmake_4.1.0-1build1_amd64.deb                            1c02d28a61af5a50fd1a314bd993765b    
 
@@ -237,23 +237,28 @@ jammy           deluge                      deluge-gtk                      2.0.
 jammy           deluge                      deluge-gtk                      2.0.3.1                deluge-gtk_2.0.3.1-1build1_all.deb                       a118cc534f699afd7b9ee998ab5456e5    
 jammy           deluge                      deluge-gtk                      2.0.5                  deluge-gtk_2.0.5-1build1_all.deb                         d366df0f3a075c7be6e81fdb535a6741    
 jammy           deluge                      deluge-gtk                      2.1.1                  deluge-gtk_2.1.1-1build1_all.deb                         25f0317c196263848b57b0d25092c373    
-jammy           deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  6fad0c7d2d7433711925845ed7f98e63    
+jammy           deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  00ea537bc3c285df3fc855af0d10c69c    
 jammy           deluge                      deluge-web                      2.0.3                  deluge-web_2.0.3-1build1_all.deb                         537fc4db560b087eedea89c7668cf885    
 jammy           deluge                      deluge-web                      2.0.3.1                deluge-web_2.0.3.1-1build1_all.deb                       604856e6d1da5d5a24c1908a166156d1    
 jammy           deluge                      deluge-web                      2.0.5                  deluge-web_2.0.5-1build1_all.deb                         3ca2b1d06e2e060abe69958d74041cb4    
 jammy           deluge                      deluge-web                      2.1.1                  deluge-web_2.1.1-1build1_all.deb                         28145a53a60c57d8a907ab96e7ce014e    
 
-jammy           gcc                         gcc                             12.2.0                 gcc_12.2.0-1build1_amd64.deb                             7c3d2a32fae02cb6290092ff72a0cd02    
+jammy           gcc                         gcc-12.2.0                      12.2.0                 gcc_12.2.0-1build1_amd64.deb                             7c3d2a32fae02cb6290092ff72a0cd02    
 
 jammy           libtorrent-rakshasa         libtorrent21                    0.13.8                 libtorrent21_0.13.8-1build1_amd64.deb                    bbbbc793e4448239686f95a7390597fd    
 jammy           libtorrent-rakshasa         libtorrent22                    0.14.0                 libtorrent22_0.14.0-1build1_amd64.deb                    22bb67e4ca257eb12b1fe231a35b83a8    
-jammy           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-1build1_amd64.deb                 9255658be6afc7db26aae477359acfea    
+jammy           libtorrent-rakshasa         libtorrent155                   0.15.5                 libtorrent155_0.15.5-1build1_amd64.deb                   c3b7d7265f4053dfabfbde7d59c01ab8    
+jammy           libtorrent-rakshasa         libtorrent156                   0.15.6                 libtorrent156_0.15.6-1build1_amd64.deb                   3fee629fc0bed9d20a3f50f3ad35ee61    
+jammy           libtorrent-rakshasa         libtorrent157                   0.15.7                 libtorrent157_0.15.7-1build1_amd64.deb                   b6aa962bbdacc6b643d6627394aa10f7    
+jammy           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-1build1_amd64.deb                 3f4f7992dde0375e3356910305d817dd    
 jammy           libtorrent-rakshasa         libtorrent-dev                  0.13.8                 libtorrent-dev_0.13.8-1build1_amd64.deb                  81809e0e40a5760ed5bc4cc8456e8b8b    
 
-jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            0c03b5663f07ebf6f43486002e11a8e4    
+jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            d2231f15aa02ccf14f1baf3acdac8f23    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            391fbdec5628db5040774f2f72868e70    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.12                 libtorrent-rasterbar_2.0.12-1build1_amd64.deb            35bd87d049d838429646cfc183d0e4f5    
-jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.1.0                  libtorrent-rasterbar_2.1.0-1build1_amd64.deb             f384c466a3fdde249f6b947922d92b13    
+jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.13                 libtorrent-rasterbar_2.0.13-1build1_amd64.deb            86969eab4192adc26ab0b2e14b40076f    
+jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.1.0                  libtorrent-rasterbar_2.1.0-1build1_amd64.deb             33fc1dd1b17330a87d3c72ef6c4ca239    
+jammy           libtorrent-rasterbar        libtorrent-rasterbar2.0-python3 2.0.10                 libtorrent-rasterbar2.0.10-python3-1build1_amd64.deb     422ae086513eac8c4f9bc1356342b79c    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14                 libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           b03970350904322628a81efe02b9b1fc    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar10          1.2.11                 libtorrent-rasterbar10_1.2.11-1build1_amd64.deb          759771b76cbc01f7958d847a35895dfd    
 jammy           libtorrent-rasterbar        libtorrent-rasterbar10          1.2.19                 libtorrent-rasterbar10_1.2.19-1build1_amd64.deb          933c51958b161ba277f6ff989b629ba1    
@@ -265,15 +270,16 @@ jammy           libtorrent-rasterbar        python3-libtorrent              1.2.
 jammy           libtorrent-rasterbar        python3-libtorrent              1.2.19                 python3-libtorrent_1.2.19-1build1_amd64.deb              160165cc12e3a7f9227b46569d62a3e2    
 jammy           libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              146d0fdf2bb9c396c9fe0b004f5c0fe7    
 jammy           libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              4bcf1d77a8767dd19180806c4055e8ea    
-jammy           libtorrent-rasterbar        python3-libtorrent              2.1.0                  python3-libtorrent_2.1.0-1build1_amd64.deb               2f2e16deb5b792999d51ad05e369bdd5    
+jammy           libtorrent-rasterbar        python3-libtorrent              2.0.13                 python3-libtorrent_2.0.13-1build1_amd64.deb              ab237073d7d642fa013cf77587f0648a    
+jammy           libtorrent-rasterbar        python3-libtorrent              2.1.0                  python3-libtorrent_2.1.0-1build1_amd64.deb               2752d2ab0c928664833ac07eabd3e250    
 
 jammy           netdata                     netdata                         2.3.1                  netdata_2.3.1-1build1+webv1_amd64.deb                    357afcfdc95b757bb2ad58bf062aa06d    
 jammy           netdata                     netdata                         2.4.0                  netdata_2.4.0-1build1+webv1_amd64.deb                    53a4f90677daccc2ca91a462339815ff    
-jammy           netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    caf45bcb19a3a3adcea6d041ca2dbc7c    
+jammy           netdata                     netdata                         2.5.1                  netdata_2.5.1-1build1+webv1_amd64.deb                    c88a7f8359b4570c61fc47d26ecc4505    
 jammy           netdata                     netdata                         2.7.3                  netdata_2.7.3-1build1+webv1_amd64.deb                    5b5ad989bbb86ead083b86a87bc7dc54    
 
-jammy           python                      python311                       3.11.5                 python311_3.11.5-1build1_amd64.deb                       28c82d1fa6b5f3d7f26e36eb455d4a64    
-jammy           python                      python313                       3.13.5                 python313_3.13.5-1build1_amd64.deb                       fcf5264048112374b1090936850bb2e7    
+jammy           python                      python311                       3.11.5                 python311_3.11.5-1build1_amd64.deb                       d7376f1204c6dcf910f527d0b1e6d776    
+jammy           python                      python313                       3.13.5                 python313_3.13.5-1build1_amd64.deb                       d9d775afc4748e6043ff7e0881e2ef86    
 
 jammy           qbittorrent                 qbittorrent-nox                 4.6.7                  qbittorrent-nox.qbit4.6.7_lt2.0.10.amd64                 6e6db98de15fcf98996640c2507666e8    
 jammy           qbittorrent                 qbittorrent-nox                 5.0.1                  qbittorrent-nox.qbit5.0.1_lt2.0.10.amd64                 400900db72180520b350bf607e62355c    
@@ -281,33 +287,40 @@ jammy           qbittorrent                 qbittorrent-nox                 5.0.
 jammy           qbittorrent                 qbittorrent-nox                 5.1.0                  qbittorrent-nox.qbit5.1.0_lt2.0.11.amd64                 181ee7bce53c2a9378fa267b32d3cd27    
 jammy           qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     4dde71a609da718f2f941491cface7ca    
 jammy           qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.12.amd64                     0e1a8352263a2b4ae6d0434a99e835a8    
+jammy           qbittorrent                 qbittorrent-nox                 5.2.3                  qbittorrent-nox.5.2.3_lt2.0.13.amd64                     1e0134a36803e338d6065d20f6672f6f    
 
 jammy           qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             befcea029398af89c25201600afea31f    
+jammy           qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            8cbbc011b27d0794f755b9f9943cc330    
 
 jammy           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         d23d85639872f2aafcf3e4280de0cf16    
 jammy           rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        d31e1306f227acc67785e40c6cd599db    
-jammy           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-1build1_amd64.deb                       5124f17beadd7bd72b707a26de06e577    
+jammy           rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        ba602da7870c3df74d9efac7c59677e2    
+jammy           rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        591bfa5ef0a6805f19a8bdefaca3f38a    
+jammy           rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        0060df58014b939448da48f2c5bdc7a7    
+jammy           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-1build1_amd64.deb                       ffca29f47ba549fa7193eee32fcb194e    
 
-jammy           transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
-jammy           transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
+jammy           transmission                transmission                    2.94-1mod1             transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
+jammy           transmission                transmission                    3.00-1mod1             transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
+jammy           transmission                transmission                    4.0.3                  transmission-4.0.3-complete_amd64.deb                    dcf956a4bbe0d0da0c0263fef14c255a    
+jammy           transmission                transmission                    4.0.5                  transmission-4.0.5-complete_amd64.deb                    836d088e3f82c65b46f72a19ac570720    
 jammy           transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             36e0b2c52e64b8b046c728307de8a806    
-jammy           transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             cc968d7da6410cb62fe3985b9ea6902b    
-jammy           transmission                transmission-cli                2.94                   transmission-cli_2.94-1mod1_amd64.deb                    aa460f4fa8ffb8041d6596830c557c75    
-jammy           transmission                transmission-cli                3.00                   transmission-cli_3.00-1mod1_amd64.deb                    e4ce9caf857e57911ee1fc0fcde7470a    
-jammy           transmission                transmission-common             2.94                   transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2    
-jammy           transmission                transmission-common             3.00                   transmission-common_3.00-1mod1_all.deb                   c55302048c4a242b97fb456228978a2b    
-jammy           transmission                transmission-daemon             2.94                   transmission-daemon_2.94-1mod1_amd64.deb                 20a6e094d531a09ec9f1b69df1503cd6    
-jammy           transmission                transmission-daemon             3.00                   transmission-daemon_3.00-1mod1_amd64.deb                 67423a6e7b8604ac301cf87b16d0222f    
-jammy           transmission                transmission-gtk                2.94                   transmission-gtk_2.94-1mod1_amd64.deb                    91d4815860401cbbaa8733dadedc6f95    
-jammy           transmission                transmission-gtk                3.00                   transmission-gtk_3.00-1mod1_amd64.deb                    56ca3f5b0ae0f07538ef2a734368ce9d    
-jammy           transmission                transmission-qt                 2.94                   transmission-qt_2.94-1mod1_amd64.deb                     053a16518ec6321cc5cb65843999d2f1    
-jammy           transmission                transmission-qt                 3.00                   transmission-qt_3.00-1mod1_amd64.deb                     a6e6461e309b35aba0ee1715a5e4b6f4    
+jammy           transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             b9581fcfd86c37cf7ac34676525aaa3f    
+jammy           transmission                transmission-cli                2.94-1mod1             transmission-cli_2.94-1mod1_amd64.deb                    aa460f4fa8ffb8041d6596830c557c75    
+jammy           transmission                transmission-cli                3.00-1mod1             transmission-cli_3.00-1mod1_amd64.deb                    e4ce9caf857e57911ee1fc0fcde7470a    
+jammy           transmission                transmission-common             2.94-1mod1             transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2    
+jammy           transmission                transmission-common             3.00-1mod1             transmission-common_3.00-1mod1_all.deb                   c55302048c4a242b97fb456228978a2b    
+jammy           transmission                transmission-daemon             2.94-1mod1             transmission-daemon_2.94-1mod1_amd64.deb                 20a6e094d531a09ec9f1b69df1503cd6    
+jammy           transmission                transmission-daemon             3.00-1mod1             transmission-daemon_3.00-1mod1_amd64.deb                 67423a6e7b8604ac301cf87b16d0222f    
+jammy           transmission                transmission-gtk                2.94-1mod1             transmission-gtk_2.94-1mod1_amd64.deb                    91d4815860401cbbaa8733dadedc6f95    
+jammy           transmission                transmission-gtk                3.00-1mod1             transmission-gtk_3.00-1mod1_amd64.deb                    56ca3f5b0ae0f07538ef2a734368ce9d    
+jammy           transmission                transmission-qt                 2.94-1mod1             transmission-qt_2.94-1mod1_amd64.deb                     053a16518ec6321cc5cb65843999d2f1    
+jammy           transmission                transmission-qt                 3.00-1mod1             transmission-qt_3.00-1mod1_amd64.deb                     a6e6461e309b35aba0ee1715a5e4b6f4    
 
 jammy           xmlrpc                      xmlrpc-c                        1.64.99                xmlrpc-c_1.64.99-1build1_amd64.deb                       47998a53074506742932ef38656be098    
 jammy           xmlrpc                      xmlrpc-c                        1.65.00                xmlrpc-c_1.65.00-1build1_amd64.deb                       f43f8ab51fe0265e71bfe78100a3c549    
 jammy           xmlrpc                      xmlrpc-c                        1.66.1                 xmlrpc-c_1.66.1-1build1_amd64.deb                        7f9173e42c4488e7345b8385a342ef50    
 jammy           xmlrpc                      xmlrpc-c                        1.67.0                 xmlrpc-c_1.67.0-1build1_amd64.deb                        b411ec44e1371bf3594610160af19d9e    
-jammy           xmlrpc                      xmlrpc-c                        1.67.2                 xmlrpc-c_1.67.2-1build1_amd64.deb                        284c04d2b9b29d66192cad71ee9143a5    
+jammy           xmlrpc                      xmlrpc-c                        1.67.2                 xmlrpc-c_1.67.2-1build1_amd64.deb                        4ee7b308411082b44e1c710be2262e42    
 
 noble           boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    fd8aa60533ac7495bbc1da08fbb757ca    
 
