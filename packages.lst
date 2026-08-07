@@ -343,35 +343,48 @@ noble           transmission                transmission                    4.1.
 
 noble           xmlrpc                      xmlrpc-c                        1.67.2                 xmlrpc-c_1.67.2-1build1_amd64.deb                        29486001722f30128fddbf454f58dabc    
 
-trixie          boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    47e3ce09ca9b39653c78a5f0fbb1494f    
+trixie          boost                       libboost-dev                    1.83.0                 libboost-dev_1.83.0-1build1_amd64.deb                    3542419b39f0ddef29953dd46a88f34c    
 
-trixie          deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  c3ede24dfbf32809b562299aea863e68    
+trixie          deluge                      deluge-headless                 2.2.0                  deluge-headless_2.2.0-1build1_amd64.deb                  cd4b604e350447f9e941c1290b4651ca    
 
 trixie          libtorrent-rakshasa         libtorrent138                   0.13.8                 libtorrent138_0.13.8-1build1_amd64.deb                   37343ed88e0472806ffb7ca249d1d0cd    
 trixie          libtorrent-rakshasa         libtorrent140                   0.14.0                 libtorrent140_0.14.0-1build1_amd64.deb                   6649ad963c708051679494f70372dac4    
+trixie          libtorrent-rakshasa         libtorrent155                   0.15.5                 libtorrent155_0.15.5-1build1_amd64.deb                   570863d1d2a1ac1b783db38a9686e0b5    
+trixie          libtorrent-rakshasa         libtorrent156                   0.15.6                 libtorrent156_0.15.6-1build1_amd64.deb                   f83ec9b55a3e374b185c7db44f554336    
+trixie          libtorrent-rakshasa         libtorrent157                   0.15.7                 libtorrent157_0.15.7-1build1_amd64.deb                   0f4b9006df873a59a9a0f2a07aaac006    
 trixie          libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-1build1_amd64.deb                 3672f18fd6b597f78c89daea3ad684e6    
 
 trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            6dddeff4fbd08bb1a3083109ba5c5c62    
 trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.0.12                 libtorrent-rasterbar_2.0.12-1build1_amd64.deb            a2551480de20f9aceeb33af6245871d8    
+trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.0.13                 libtorrent-rasterbar_2.0.13-1build1_amd64.deb            5f9aa453a7694a3ef51719b8d040f8c5    
+trixie          libtorrent-rasterbar        libtorrent-rasterbar            2.1.0                  libtorrent-rasterbar_2.1.0-1build1_amd64.deb             ea9d1aef4804c173c09e3981d758174f    
 trixie          libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              6683a14db43d1dbc3889b755eee428e3    
-trixie          libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              a2551480de20f9aceeb33af6245871d8    
+trixie          libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              18d6b4a7fa012f2e0696ac01e362e3c2    
+trixie          libtorrent-rasterbar        python3-libtorrent              2.0.13                 python3-libtorrent_2.0.13-1build1_amd64.deb              a545d82dc33472db18310d69cd6ec4d1    
+trixie          libtorrent-rasterbar        python3-libtorrent              2.1.0                  python3-libtorrent_2.1.0-1build1_amd64.deb               dde9aaf8e4d01e8086a02f283992190b    
 
 trixie          netdata                     netdata                         2.7.1                  netdata_2.7.1-1build1+webv1_amd64.deb                    7cf29f2a220dca25f36d06c47dbaddbc    
 trixie          netdata                     netdata                         2.7.3                  netdata_2.7.3-1build1+webv1_amd64.deb                    f785e62283f75e9e6c5541101f62029e    
 
-trixie          python                      python311                       3.11.5                 python311_3.11.5-1build1_amd64.deb                       c0b09a673c357d35076f85eac1b662cd    
+trixie          python                      python311                       3.11.5                 python311_3.11.5-1build1_amd64.deb                       eab1d3fe805c687ed9745e845ccc66a6    
 
 trixie          qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     8cf9b9648900b3b03d7456cd1f934fc4    
 trixie          qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.12.amd64                     2b917774719c1ee4eee0d2b2bd83e488    
+trixie          qbittorrent                 qbittorrent-nox                 5.2.3                  qbittorrent-nox.5.2.3_lt2.0.13.amd64                     d1a73d52f4915db225d6dfa534d5a243    
 
 trixie          qt6                         libqt6essentials-dev            6.9.3                  libqt6essentials-dev_6.9.3-2build1_amd64.deb             50f6f3240a7d9195e223545f2f783107    
+trixie          qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            cdb2aad71dc8bedbe8e3116f6b6c3597    
 
 trixie          rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         cac4933d327fb3203f37443e22dc1252    
 trixie          rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        99cb66deb9b70fd141dc4aabb400b0d7    
+trixie          rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        a6d0cb31b705696db08550b386ac057b    
+trixie          rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        b62eaa86d2b381ed72ed98a658e88443    
+trixie          rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        f09a09f1939ce8dc1388fc92832096dd    
 trixie          rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-1build1_amd64.deb                       3c0eba745525cd7988533b371fc51d49    
 
 trixie          transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             2751fbfc8df23621af98ec73d30eb1ac    
 trixie          transmission                transmission                    4.1.1                  transmission_4.1.1-1build1+allmods_amd64.deb             81cf79384fb2d7fb39f3ec605a4760d5    
+trixie          transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             d54e552fbab24ca9609ded3d812aed21    
 
 trixie          xmlrpc                      xmlrpc-c                        1.67.0                 xmlrpc-c_1.67.0-1build1_amd64.deb                        9c878e21da2e80efcd09fc4ec4a10f7d    
-trixie          xmlrpc                      xmlrpc-c                        1.67.2                 xmlrpc-c_1.67.2-1build1_amd64.deb                        a4fc5a8ccbed54b10103eb898363b645    
+trixie          xmlrpc                      xmlrpc-c                        1.67.2                 xmlrpc-c_1.67.2-1build1_amd64.deb                        298dc377fdf35af8c2b8b506d50feed2    
