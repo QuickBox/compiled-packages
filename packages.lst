@@ -330,14 +330,17 @@ noble           libtorrent-rakshasa         libtorrent157                   0.15
 noble           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-1build1_amd64.deb                 e3d8308b2789e6dbb30712715862e872    
 
 noble           libtorrent-rasterbar        libtorrent-rasterbar            2.0.13                 libtorrent-rasterbar_2.0.13-1build1_amd64.deb            62f90e860d2217869202b17b1740855a    
+noble           libtorrent-rasterbar        libtorrent-rasterbar            2.0.14                 libtorrent-rasterbar_2.0.14-1build1_amd64.deb            94c520b6449768f93427f123013e2f4f    
 noble           libtorrent-rasterbar        python3-libtorrent              2.0.13                 python3-libtorrent_2.0.13-1build1_amd64.deb              8367dac3a17ae7675f3e911d821bc4dd    
+noble           libtorrent-rasterbar        python3-libtorrent              2.0.14                 python3-libtorrent_2.0.14-1build1_amd64.deb              72c60e3cab21060d9a88a4448dcc90a4    
 
 noble           python                      python311                       3.11.5                 python311_3.11.5-1build1_amd64.deb                       019919c7a34cbbe86b5a13cb4ab1dbe6    
 noble           python                      python313                       3.13.5                 python313_3.13.5-1build1_amd64.deb                       05d8343073f91fa38323b2db1c63297c    
 
-noble           qbittorrent                 qbittorrent-nox                 5.2.3                  qbittorrent-nox.5.2.3_lt2.0.13.amd64                     8960877eb9a045711d72d1591f584e0b    
+noble           qbittorrent                 qbittorrent-nox                 5.2.3                  qbittorrent-nox.5.2.3_lt2.0.14.amd64                     9e09fab52f294152b977f71a1ceb315f    
 
 noble           qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            90965611848a1eb3c5b7f1ffbaeb0944    
+noble           qt6                         libqt6essentials-dev            6.11.2                 libqt6essentials-dev_6.11.2-2build1_amd64.deb            22905baedea404028611f8f0f5172650    
 
 noble           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         76feffb70182b4950a0c2063f5ce0f2b    
 noble           rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        58d9578a86f9db799a7ece44b236f3a2    
@@ -346,7 +349,7 @@ noble           rtorrent                    rtorrent                        0.15
 noble           rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        db013bced073b163ba105c57e36439c5    
 noble           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-2build1_amd64.deb                       b3e3d4887861da930c4c242261cf99a2    
 
-noble           transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             6d8fffc1b2f255c45790e3a0cb886c6e    
+noble           transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             39dc562ca2b37e9c5e6eeaacd0472bd8    
 
 noble           xmlrpc                      xmlrpc-c                        1.67.2                 xmlrpc-c_1.67.2-1build1_amd64.deb                        29486001722f30128fddbf454f58dabc    
 
