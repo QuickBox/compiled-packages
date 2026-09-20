@@ -41,6 +41,7 @@ bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.11                 libtorrent-rasterbar_2.0.11-1build1_amd64.deb            77eac53c6dd956715c3145c3e16b842b    
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.12                 libtorrent-rasterbar_2.0.12-1build1_amd64.deb            92d501c6c5fc60c82d051cda65f56ccc    
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.13                 libtorrent-rasterbar_2.0.13-1build1_amd64.deb            d81ed8157c01873450b3c8d01b04fc10    
+bookworm        libtorrent-rasterbar        libtorrent-rasterbar            2.0.14                 libtorrent-rasterbar_2.0.14-1build1_amd64.deb            97da0987fa0631d363eb3ef650b0c32d    
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar2.0-python3 2.0.10                 libtorrent-rasterbar2.0.10-python3-1build1_amd64.deb     8a0044eb548b731b7ff49ec9caf0b73c    
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar9           1.1.14                 libtorrent-rasterbar9_1.1.14-1build1_amd64.deb           d68a7c77f55d2f2b6113e83b322b033b    
 bookworm        libtorrent-rasterbar        libtorrent-rasterbar10          1.2.11                 libtorrent-rasterbar10_1.2.11-1build1_amd64.deb          f19fc925d6fcc303ddfb29f808f224f9    
@@ -57,6 +58,7 @@ bookworm        libtorrent-rasterbar        python3-libtorrent              1.2.
 bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.11                 python3-libtorrent_2.0.11-1build1_amd64.deb              4757b196f3de065aef9624d569e6710f    
 bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.12                 python3-libtorrent_2.0.12-1build1_amd64.deb              3c6be1d7734b2b379b1ffc73a0352988    
 bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.13                 python3-libtorrent_2.0.13-1build1_amd64.deb              fcf6d0eb73cefa8fcb347bb783b68ac1    
+bookworm        libtorrent-rasterbar        python3-libtorrent              2.0.14                 python3-libtorrent_2.0.14-1build1_amd64.deb              0f6024fa12a90aa54346e81d5c203d7d    
 
 bookworm        netdata                     netdata                         2.3.1                  netdata_2.3.1-1build1+webv1_amd64.deb                    1d65300d955aff65985f13d070a8b77f    
 bookworm        netdata                     netdata                         2.4.0                  netdata_2.4.0-1build1+webv1_amd64.deb                    24fa4e26cfd2eecab812370d4883d770    
@@ -72,10 +74,11 @@ bookworm        qbittorrent                 qbittorrent-nox                 5.0.
 bookworm        qbittorrent                 qbittorrent-nox                 5.1.0                  qbittorrent-nox.qbit5.1.0_lt2.0.11.amd64                 a6d64f710f7d7be44fdb954ad24817a9    
 bookworm        qbittorrent                 qbittorrent-nox                 5.1.2                  qbittorrent-nox.5.1.2_lt2.0.11.amd64                     4f2f08df9bf8471b16a95ad28881487c    
 bookworm        qbittorrent                 qbittorrent-nox                 5.1.4                  qbittorrent-nox.5.1.4_lt2.0.12.amd64                     e6f292a429b21731335ea97dee679c11    
-bookworm        qbittorrent                 qbittorrent-nox                 5.2.3                  qbittorrent-nox.5.2.3_lt2.0.13.amd64                     506f6b1bca6afe2d6bb62607cc0e2392    
+bookworm        qbittorrent                 qbittorrent-nox                 5.2.3                  qbittorrent-nox.5.2.3_lt2.0.14.amd64                     4e067754fc60c8d0109fcea3403fb405    
 
 bookworm        qt6                         libqt6essentials-dev            6.8.0                  libqt6essentials-dev_6.8.0-2build1_amd64.deb             0417b18dc0467ce53b8618cf2c2012ed    
 bookworm        qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            a688c32bb3173b904b950667620dc086    
+bookworm        qt6                         libqt6essentials-dev            6.11.2                 libqt6essentials-dev_6.11.2-2build1_amd64.deb            865bc017de2a07ca18c2d411a551f94f    
 
 bookworm        rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         3fb36684b3e867d84f5e80a388304d6c    
 bookworm        rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        a7df59b0a320efe294b2d2dfd2659c10    
@@ -90,7 +93,7 @@ bookworm        transmission                transmission                    4.0.
 bookworm        transmission                transmission                    4.0.5                  transmission-4.0.5-complete_amd64.deb                    88d636a64a94e9c6f50efe054f42cb8a    
 bookworm        transmission                transmission                    4.0.6                  transmission_4.0.6-1build1+allmods_amd64.deb             d11258356490b6621035ff838f70dbc0    
 bookworm        transmission                transmission                    4.1.1                  transmission_4.1.1-1build1+allmods_amd64.deb             c17dba941185ffec7d8f42af0a72db31    
-bookworm        transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             d15f55b6c73fc51b935e6ad6973b715d    
+bookworm        transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             d6aa13da740fc00f944ab475aa028bff    
 bookworm        transmission                transmission-cli                2.94                   transmission-cli_2.94-1mod1_amd64.deb                    db461e320afcd24830058bbce100d9c5    
 bookworm        transmission                transmission-cli                3.00                   transmission-cli_3.00-1mod1_amd64.deb                    3016b80bd0159c00d3768c6190c0f5bb    
 bookworm        transmission                transmission-common             2.94                   transmission-common_2.94-1mod1_all.deb                   e6cd76fdc1f2c6bd5c052c1381a003d2    
