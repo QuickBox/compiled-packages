@@ -253,8 +253,8 @@ jammy           libtorrent-rakshasa         libtorrent22                    0.14
 jammy           libtorrent-rakshasa         libtorrent155                   0.15.5                 libtorrent155_0.15.5-1build1_amd64.deb                   c3b7d7265f4053dfabfbde7d59c01ab8    
 jammy           libtorrent-rakshasa         libtorrent156                   0.15.6                 libtorrent156_0.15.6-1build1_amd64.deb                   3fee629fc0bed9d20a3f50f3ad35ee61    
 jammy           libtorrent-rakshasa         libtorrent157                   0.15.7                 libtorrent157_0.15.7-1build1_amd64.deb                   b6aa962bbdacc6b643d6627394aa10f7    
-jammy           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-1build1_amd64.deb                 3f4f7992dde0375e3356910305d817dd    
-jammy           libtorrent-rakshasa         libtorrent1623                  0.16.23                libtorrent1623_0.16.23-1build1_amd64.deb                 9bba0f56a577e65184728d32c873b24a    
+jammy           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-3build1_amd64.deb                 ab221863c629c165ce190a3d420648fd    
+jammy           libtorrent-rakshasa         libtorrent1623                  0.16.23                libtorrent1623_0.16.23-2build1_amd64.deb                 7d88863e7f2a2434794dc09ed80d1083    
 jammy           libtorrent-rakshasa         libtorrent-dev                  0.13.8                 libtorrent-dev_0.13.8-1build1_amd64.deb                  81809e0e40a5760ed5bc4cc8456e8b8b    
 
 jammy           libtorrent-rasterbar        libtorrent-rasterbar            2.0.10                 libtorrent-rasterbar_2.0.10-1build1_amd64.deb            d2231f15aa02ccf14f1baf3acdac8f23    
@@ -302,8 +302,8 @@ jammy           rtorrent                    rtorrent                        0.10
 jammy           rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        ba602da7870c3df74d9efac7c59677e2    
 jammy           rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        591bfa5ef0a6805f19a8bdefaca3f38a    
 jammy           rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        0060df58014b939448da48f2c5bdc7a7    
-jammy           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-2build1_amd64.deb                       d948db86e3274e320817783c570d7e3e    
-jammy           rtorrent                    rtorrent                        0.16.23                rtorrent_0.16.23-1build1_amd64.deb                       50d88f0d18d1baeaabc4d4b90453a364    
+jammy           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-3build1_amd64.deb                       41c8be953ed76253346bbe8c10d4f0b6    
+jammy           rtorrent                    rtorrent                        0.16.23                rtorrent_0.16.23-2build1_amd64.deb                       8c51750c3c0a727d5d38a9bf74bef090    
 
 jammy           transmission                transmission                    2.94                   transmission_2.94-1mod1_all.deb                          576e1d7d03d64a58042fd9a849fb6134    
 jammy           transmission                transmission                    3.00                   transmission_3.00-1mod1_all.deb                          4bbed629bd22bd76d37365a2da32c59d    
