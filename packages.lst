@@ -337,8 +337,8 @@ noble           libtorrent-rakshasa         libtorrent140                   0.14
 noble           libtorrent-rakshasa         libtorrent155                   0.15.5                 libtorrent155_0.15.5-1build1_amd64.deb                   3a81bf039ea5043927698e0a8dff0628    
 noble           libtorrent-rakshasa         libtorrent156                   0.15.6                 libtorrent156_0.15.6-1build1_amd64.deb                   0aec682e89bff67c9666a23f86e11487    
 noble           libtorrent-rakshasa         libtorrent157                   0.15.7                 libtorrent157_0.15.7-1build1_amd64.deb                   cfa9b672e3d00da2627d6dc9917795c8    
-noble           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-1build1_amd64.deb                 e3d8308b2789e6dbb30712715862e872    
-noble           libtorrent-rakshasa         libtorrent1623                  0.16.23                libtorrent1623_0.16.23-1build1_amd64.deb                 a8829d3d36f8ded93048a3bd81b2b43d    
+noble           libtorrent-rakshasa         libtorrent1611                  0.16.11                libtorrent1611_0.16.11-3build1_amd64.deb                 43421ba5581a723e79ebc41258517f8e    
+noble           libtorrent-rakshasa         libtorrent1623                  0.16.23                libtorrent1623_0.16.23-2build1_amd64.deb                 7c85b1098762b862669736628f1fc400    
 
 noble           libtorrent-rasterbar        libtorrent-rasterbar            2.0.13                 libtorrent-rasterbar_2.0.13-1build1_amd64.deb            62f90e860d2217869202b17b1740855a    
 noble           libtorrent-rasterbar        libtorrent-rasterbar            2.0.14                 libtorrent-rasterbar_2.0.14-1build1_amd64.deb            94c520b6449768f93427f123013e2f4f    
@@ -358,8 +358,8 @@ noble           rtorrent                    rtorrent                        0.10
 noble           rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        64b041ed90efdfff3ee6d99db5870564    
 noble           rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        c9c7caf9a51192db882532ab7d533c5f    
 noble           rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        db013bced073b163ba105c57e36439c5    
-noble           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-2build1_amd64.deb                       b3e3d4887861da930c4c242261cf99a2    
-noble           rtorrent                    rtorrent                        0.16.23                rtorrent_0.16.23-1build1_amd64.deb                       e8371e671ba8937a00cf86434f668a5b    
+noble           rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-3build1_amd64.deb                       dd3671bf11965bd117bac6b174296703    
+noble           rtorrent                    rtorrent                        0.16.23                rtorrent_0.16.23-2build1_amd64.deb                       9cb4516600aef961de26539ef9d10c30    
 
 noble           transmission                transmission                    4.1.3                  transmission_4.1.3-1build1+allmods_amd64.deb             39dc562ca2b37e9c5e6eeaacd0472bd8    
 
