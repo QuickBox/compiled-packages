@@ -358,8 +358,8 @@ noble           qbittorrent                 qbittorrent-nox                 5.2.
 noble           qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            90965611848a1eb3c5b7f1ffbaeb0944    
 noble           qt6                         libqt6essentials-dev            6.11.2                 libqt6essentials-dev_6.11.2-2build1_amd64.deb            22905baedea404028611f8f0f5172650    
 
-noble           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         76feffb70182b4950a0c2063f5ce0f2b    
-noble           rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        58d9578a86f9db799a7ece44b236f3a2    
+noble           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         3278b034fe1b049aaa321d2f1ff84d14    
+noble           rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        1ca2ea400827bf6b347015ff9992cb34    
 noble           rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        64b041ed90efdfff3ee6d99db5870564    
 noble           rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        c9c7caf9a51192db882532ab7d533c5f    
 noble           rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        db013bced073b163ba105c57e36439c5    
@@ -406,10 +406,10 @@ trixie          qt6                         libqt6essentials-dev            6.9.
 trixie          qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            cdb2aad71dc8bedbe8e3116f6b6c3597    
 trixie          qt6                         libqt6essentials-dev            6.11.2                 libqt6essentials-dev_6.11.2-2build1_amd64.deb            d026f4418f8769ef55a34aad851066e6    
 
-trixie          rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         cac4933d327fb3203f37443e22dc1252    
-trixie          rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        99cb66deb9b70fd141dc4aabb400b0d7    
-trixie          rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        a6d0cb31b705696db08550b386ac057b    
-trixie          rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        b62eaa86d2b381ed72ed98a658e88443    
+trixie          rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         e0585b98d47003f40ee441c0a4e2cae0    
+trixie          rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        e1a5228d49a30713c9f12ea0cc2b23ed    
+trixie          rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        d1f921817c10e08600a68f5d281d499f    
+trixie          rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        11ef76b582c302ed38722acc4d794ae7    
 trixie          rtorrent                    rtorrent                        0.15.7                 rtorrent_0.15.7-1build1_amd64.deb                        f09a09f1939ce8dc1388fc92832096dd    
 trixie          rtorrent                    rtorrent                        0.16.11                rtorrent_0.16.11-2build1_amd64.deb                       0da0764553f0f010f852d111b5669152    
 trixie          rtorrent                    rtorrent                        0.16.23                rtorrent_0.16.23-1build1_amd64.deb                       556b0087b9a1e7aa1b0fd109f1a9e63c    
