@@ -358,7 +358,7 @@ noble           qbittorrent                 qbittorrent-nox                 5.2.
 noble           qt6                         libqt6essentials-dev            6.11.1                 libqt6essentials-dev_6.11.1-2build1_amd64.deb            90965611848a1eb3c5b7f1ffbaeb0944    
 noble           qt6                         libqt6essentials-dev            6.11.2                 libqt6essentials-dev_6.11.2-2build1_amd64.deb            22905baedea404028611f8f0f5172650    
 
-noble           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         3278b034fe1b049aaa321d2f1ff84d14    
+noble           rtorrent                    rtorrent                        0.9.8                  rtorrent_0.9.8-1build1_amd64.deb                         9e20f53fcee649b40d0ae6a8cef8927a    
 noble           rtorrent                    rtorrent                        0.10.0                 rtorrent_0.10.0-1build1_amd64.deb                        1ca2ea400827bf6b347015ff9992cb34    
 noble           rtorrent                    rtorrent                        0.15.5                 rtorrent_0.15.5-1build1_amd64.deb                        64b041ed90efdfff3ee6d99db5870564    
 noble           rtorrent                    rtorrent                        0.15.6                 rtorrent_0.15.6-1build1_amd64.deb                        c9c7caf9a51192db882532ab7d533c5f    
